@@ -1,2 +1,8 @@
 # Programmation Reseau
-Protocole de communication client-serveur en Python, projet de l'enseignement réseaux a IMT Atlantique. Ce projets m'a permis d'apprendre la programmation orienté objet en python et d'organiser un projet de façon modulaire.
+Protocole de communication client-serveur en Python
+implémentation de :
++ requêtes de connexion/deconnexion, 
++ changement de vidéo,
++ récupération de la liste des utilisateurs visionnant la même vidéo, 
++ acheminement des messages. 
++ système d'acquittements pour la fiabilité de la connexion.
